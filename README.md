@@ -80,3 +80,9 @@ pip install -r requirements.txt
 
 ## 💡 Acknowledgments
 **This project utilizes the Jester Dataset, a collection of joke ratings gathered from various users.**
+
+## The Representation of the flow of the system through Diagram:
+![flow3](https://github.com/user-attachments/assets/d3675423-3b39-4134-8182-b0bd89ab7f81)
+## Followed by the follow below:
+![flow2](https://github.com/user-attachments/assets/0b63d976-4abd-4008-b222-b2ffa2a03305)
+
